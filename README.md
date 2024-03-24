@@ -1,6 +1,8 @@
-### Hi there 👋
+## Hi there. This is Nkateko's University Github 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=19075716&show_icons=true)](https://github.com/19075716/github-readme-stats&show_icons=true)
+<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=19075716&show_icons=true"/>
+
+<img alt="my stats" align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=19075716&layout=compact&langs_count=20"/>
 
 <!--
 **19075716/19075716** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
